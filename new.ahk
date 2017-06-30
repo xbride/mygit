@@ -1,4 +1,4 @@
-﻿/*local procedure(*personal) 123
+﻿/*local procedure(*personal) 1234567890
 gernerate qrcode	*
 put qr on qrdirectory	*
 get newest qr
